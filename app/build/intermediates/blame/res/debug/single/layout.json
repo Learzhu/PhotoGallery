@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Learzhu\\AndroidProjects\\PhotoGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fragment.xml",
+        "source": "F:\\Learzhu\\AndroidProjects\\PhotoGallery\\app\\src\\main\\res\\layout\\activity_fragment.xml"
+    },
+    {
+        "merged": "F:\\Learzhu\\AndroidProjects\\PhotoGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_photo_gallery.xml",
+        "source": "F:\\Learzhu\\AndroidProjects\\PhotoGallery\\app\\src\\main\\res\\layout\\fragment_photo_gallery.xml"
+    },
+    {
+        "merged": "F:\\Learzhu\\AndroidProjects\\PhotoGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_item.xml",
+        "source": "F:\\Learzhu\\AndroidProjects\\PhotoGallery\\app\\src\\main\\res\\layout\\gallery_item.xml"
+    }
+]

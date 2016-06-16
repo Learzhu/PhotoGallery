@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Learzhu\\AndroidProjects\\PhotoGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\brian_up_close.jpg",
+        "source": "F:\\Learzhu\\AndroidProjects\\PhotoGallery\\app\\src\\main\\res\\drawable-hdpi\\brian_up_close.jpg"
+    },
+    {
+        "merged": "F:\\Learzhu\\AndroidProjects\\PhotoGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\Learzhu\\AndroidProjects\\PhotoGallery\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Learzhu\\AndroidProjects\\PhotoGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "F:\\Learzhu\\AndroidProjects\\PhotoGallery\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    }
+]
